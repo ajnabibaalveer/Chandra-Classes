@@ -1,13 +1,13 @@
-# Chandra Classes using HTML5, CSS3, Bootstrap5 and JavaScript 
+# Chandra Learning Hub using HTML5, CSS3, Bootstrap5 and JavaScript 
 
-![Chandra Classes](Preview.jpg)
+![Chandra Learning Hub](Preview.jpg)
 
-The project for the Chandra Classes website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
+The project for the Chandra Learning Hub website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
 
 ## Introduction
 
-Chandra Classes is an center to designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+Chandra Learning Hub is an center to designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
 ## Features
 
